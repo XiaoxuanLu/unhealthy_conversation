@@ -22,19 +22,7 @@ X_test = test_data[columns_use]
 y_test = test_data[target_column]
 len(X_train['antagonise'])
 
-attributes = ['antagonise', 'condescending', 'dismissive', 'generalisation',
-              'generalisation_unfair', 'hostile', 'sarcastic']
-attributes_confidence = ['antagonise:confidence', 'condescending:confidence',
-                         'dismissive:confidence', 'generalisation:confidence',
-                         'generalisation_unfair:confidence', 'hostile:confidence',
-                         'sarcastic:confidence']
 
-attributes = ['antagonise', 'condescending', 'dismissive', 'generalisation',
-              'generalisation_unfair', 'hostile', 'sarcastic']
-confidence = ['antagonise:confidence', 'condescending:confidence',
-              'dismissive:confidence', 'generalisation:confidence',
-              'generalisation_unfair:confidence', 'hostile:confidence',
-              'sarcastic:confidence']
 
 attributes = ['antagonise', 'condescending', 'dismissive', 'generalisation',
               'generalisation_unfair', 'hostile', 'sarcastic']
