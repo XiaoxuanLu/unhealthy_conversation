@@ -46,3 +46,7 @@ _____
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+## Assignment 3
+The model.ipynb includes my code and narrative about what I did step by step.
+The report includes the general idea about what I did and how I think in my work.
